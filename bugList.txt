@@ -1,0 +1,4 @@
+Bugs:
+Enqueue adds entry to front of queue instead of back
+peekFront returns entry that should be at back of list
+Destructor does not empty queue
